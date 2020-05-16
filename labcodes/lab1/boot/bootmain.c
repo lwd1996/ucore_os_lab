@@ -7,7 +7,7 @@
  * an ELF kernel image from the first IDE hard disk.
  *
  * DISK LAYOUT
- *  * This program(bootasm.S and bootmain.c) is the bootloader.
+ *  * This program(bootasm.S and bootmain.c) is the bootloader.BOOTLOADER
  *    It should be stored in the first sector of the disk.
  *
  *  * The 2nd sector onward holds the kernel image.
